@@ -1,11 +1,18 @@
-@'
 .venv/
 __pycache__/
 *.pyc
-.ipynb_checkpoints/
+
 data/
 models/
-.streamlit/secrets.toml
-.env
+*.h5
+*.keras
+*.ckpt
+*.zip
+
+.ipynb_checkpoints/
+
+.vscode/
+.idea/
+
 .DS_Store
-'@ | Set-Content .gitignore
+Thumbs.db

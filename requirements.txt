@@ -1,12 +1,9 @@
 tensorflow
 numpy
 pandas
-scikit-learn
 matplotlib
 seaborn
-opencv-python-headless
+scikit-learn
 Pillow
 streamlit
-plotly
-jupyter
-pytest
+opencv-python
